@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/samar08)
 - 🔭 I'm currently working as a System Software Engineer-1 at Hewlett Packard Enterprise (HPE).
 - 🌱 I’m passionate about Software Development.
-- 📫 How to reach me: https://www.linkedin.com/in/samara-simha-reddy-a-907b89136/
+- 📫 How to reach me: [https://www.linkedin.com/in/samar01/](https://www.linkedin.com/in/samar01/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
