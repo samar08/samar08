@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=samar08.samar08)
 [![Github](https://img.shields.io/github/followers/samar08?label=Follow&style=social)](https://github.com/samar08)
 - 🔭 I am a Software Developer with two years of work experience at Hewlett Packard Enterprise (HPE).
-- 🌱 I’m passionate about Software Development, Data Structures and Algorithms.
+- 🌱 I’m passionate about Software Development and Data Structures and Algorithms.
 - 📫 How to reach me: [https://www.linkedin.com/in/samarasimha2/](https://www.linkedin.com/in/samarasimha2/)
 - My Portfolio: [https://samar08.github.io/](https://samar08.github.io/)
 
