@@ -5,7 +5,7 @@
 - 🔭 I am a Software Developer with two years of work experience at Hewlett Packard Enterprise (HPE).
 - 🌱 I’m passionate about Software Development and Data Structures and Algorithms.
 - 📫 How to reach me: [https://www.linkedin.com/in/samarasimha2/](https://www.linkedin.com/in/samarasimha2/)
-- My Portfolio: [https://samar08.github.io/](https://samar08.github.io/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
